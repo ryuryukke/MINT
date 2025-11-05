@@ -11,7 +11,7 @@
 "A unified evaluation suite for membership inference attacks<br>and machine-generated text detection."
 </b></i></h3>
 
-## Quick Start
+## 💨 Quick Start
 Build environment (Python>=3.9):
 ```
 $ git clone https://github.com/ryuryukke/mint.git
@@ -36,7 +36,7 @@ $ python run.py --task detection --domain wiki --methods all --model_name llama-
 ```
 Please see more details for options in ``scripts/*.sh``.
 
-## MINT Supports
+## 🌿 MINT Supports
 We currently cover **4 common baselines**, **7 state-of-the-art MIAs**, and **5 state-of-the-art machine text detectors**. Please [submit an issue](https://github.com/ryuryukke/mint/issues/new) for more method support.
 
 | Methods | Category | Description | Identifier |
@@ -65,7 +65,7 @@ We currently cover **4 common baselines**, **7 state-of-the-art MIAs**, and **5 
 | MIAs | [Reference](https://arxiv.org/abs/2012.07805), [Zlib](https://arxiv.org/abs/2012.07805), [Neighborhood](https://arxiv.org/abs/2305.18462), [Min-K%](https://arxiv.org/abs/2310.16789), [Min-K%++](https://arxiv.org/abs/2404.02936), [ReCaLL](https://arxiv.org/abs/2406.15968), [DC-PDD](https://arxiv.org/abs/2409.14781) |
 | Detectors | [DetectGPT](https://arxiv.org/abs/2301.11305), [Fast-DetectGPT](https://arxiv.org/abs/2310.05130), [Binoculars](https://arxiv.org/abs/2401.12070), [DetectLLM](https://arxiv.org/abs/2306.05540), [Lastde++](https://arxiv.org/abs/2410.06072) | -->
 
-## Datasets
+## 📚 Datasets
 We employ the MIMIR benchmark for MIAs and the RAID benchmark for detection.
 
 | Benchmark | Models | Domains |
@@ -75,13 +75,13 @@ We employ the MIMIR benchmark for MIAs and the RAID benchmark for detection.
 
 
 
-## Running on a custom dataset
+## 🏃‍♂️ Running on a custom dataset
 You can add a custom dataset by adding new if-else block to ``load_evaluation_data()`` in ``run.py``.
 
-## Running a custom attack or detector
+## 🏃‍♂️ Running a custom attack or detector
 You can add a custom attack or detector by creating a new directory under `methods/` and registering it in `src/method.py`. Please follow the shared format defined in `src/method.py`.
 
-## Citation
+## ✍️ Citation
 If you find our code or ideas useful in your research, please cite our work:
 ```
 @misc{koike2025machinetextdetectorsmembership,
