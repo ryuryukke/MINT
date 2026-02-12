@@ -11,6 +11,15 @@
 "A unified evaluation suite for membership inference attacks<br>and machine-generated text detection."
 </b></i></h3>
 
+---
+
+This is the official repository of our paper, "[Machine Text Detectors are Membership Inference Attacks](https://arxiv.org/pdf/2510.19492)".
+- We theoretically prove that MIA and machine text detection share the same optimal metric.
+- We empirically demonstrate strong cross-task transferability (ρ ≈ 0.7) across diverse domains and generators.
+- Notably, a machine text detector outperforms a state-of-the-art MIA on MIA benchmarks.
+
+---
+
 ## 💨 Quick Start
 Build environment (Python>=3.9):
 ```
