@@ -21,7 +21,8 @@ This is the official repository of our paper, "[Machine Text Detectors are Membe
 ---
 
 ## 📢 Updates
-🎉 May 2026: Accepted to MemFM workshop @ ICML 2026, Seoul 🇰🇷!
+- 🎉 May 2026: Accepted to MemFM workshop @ ICML 2026, Seoul 🇰🇷!
+- 🗣️ Feb 2026: Talk invited at Google Research! [[slide](https://docs.google.com/presentation/d/1otEGKUJyw84ANNCQY7dD0OOX7wTLqC558HEE0Hv-x2Q/edit?slide=id.g3c33a3f8a25_0_12#slide=id.g3c33a3f8a25_0_1)]
 
 ## 💨 Quick Start
 Build environment (Python>=3.9):
