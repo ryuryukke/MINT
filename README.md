@@ -18,6 +18,8 @@ This is the official repository of our paper, "[Machine Text Detectors are Membe
 - We empirically demonstrate strong cross-task transferability (ρ ≈ 0.7) across diverse domains and generators.
 - Notably, a machine text detector outperforms a state-of-the-art MIA on MIA benchmarks.
 
+These results call for cross-task developments and fair evaluation across both tasks.
+
 ---
 
 ## 📢 Updates
