@@ -23,7 +23,7 @@ These results call for cross-task developments and fair evaluation across both t
 ---
 
 ## 📢 Updates
-- 🎉 May 2026: Accepted to ICML 2026 workshop of the Impact of Memorization on Trustworthy Foundation Models, Seoul 🇰🇷!
+- 🎉 May 2026: Accepted to ICML 2026 MemFM Workshop, Seoul 🇰🇷!
 - 🗣️ Feb 2026: Talk invited at Google Research! [[slide](https://docs.google.com/presentation/d/1otEGKUJyw84ANNCQY7dD0OOX7wTLqC558HEE0Hv-x2Q/edit?slide=id.g3c33a3f8a25_0_12#slide=id.g3c33a3f8a25_0_1)]
 
 ## 💨 Quick Start
